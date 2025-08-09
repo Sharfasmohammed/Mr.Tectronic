@@ -1,19 +1,24 @@
 <img width="1919" height="915" alt="Screenshot 2025-08-09 141714" src="https://github.com/user-attachments/assets/8fd27796-105e-43fb-a807-9913c5011f61" />
 
-# [Bubble Popper] 🎯
+# [sharfas Popper] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Mr.Techtronic]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Sharfas Mohammed] - [College of Engineering poonjar]
 
 ### Project Description
-[2-3 lines about what your project does]
+[🫧 Sharfas Bubble Popper – A Burst of Fun in Every Click!
+Sharfas Bubble Popper is a vibrant, fast-paced browser game designed to deliver instant joy and stress relief. With a sleek interface and satisfying sound effects, players dive into a colorful world of floating bubbles—each waiting to be popped with precision and flair.
+Whether you're looking to kill a few minutes or challenge your reflexes, this game offers:
+- 🎯 Simple yet addictive gameplay – Just click to pop, but timing is everything!
+- 🌈 Dynamic visuals – Smooth animations and playful color schemes keep the experience fresh.
+- 🔊 Immersive sound design – Crisp pops and cheerful tunes make every interaction delightful.
+- 🧠 Casual challenge mode – Beat the clock, rack up combos, and climb the leaderboard.
+Built with clean code and optimized for performance, Sharfas Bubble Popper is perfect for showcasing interactive web development skills and playful UX design. It’s not just a game—it’s a bubble-popping celebration!]
 
 ### The Problem (that doesn't exist)
 [What ridiculous problem are you solving?]
@@ -24,7 +29,7 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- [java]
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
@@ -46,18 +51,9 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![<img width="1912" height="912" alt="22" src="https://github.com/user-attachments/assets/59051631-8c54-4b38-a3cd-af38a60e2db8" />](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
 For Hardware:
 
