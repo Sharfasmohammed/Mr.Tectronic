@@ -1,29 +1,13 @@
-# Bubble Wrap Popping App
-  
-This is a project built with [Chef](https://chef.convex.dev) using [Convex](https://convex.dev) as its backend.
- You can find docs about Chef with useful information like how to deploy to production [here](https://docs.convex.dev/chef).
-  
-This project is connected to the Convex deployment named [`peaceful-chameleon-309`](https://dashboard.convex.dev/d/peaceful-chameleon-309).
-  
-## Project structure
-  
-The frontend code is in the `app` directory and is built with [Vite](https://vitejs.dev/).
-  
-The backend code is in the `convex` directory.
-  
-`npm run dev` will start the frontend and backend servers.
-
-## App authentication
-
-Chef apps use [Convex Auth](https://auth.convex.dev/) with Anonymous auth for easy sign in. You may wish to change this before deploying your app.
-
-## Developing and deploying your app
-
-Check out the [Convex docs](https://docs.convex.dev/) for more information on how to develop with Convex.
-* If you're new to Convex, the [Overview](https://docs.convex.dev/understanding/) is a good place to start
-* Check out the [Hosting and Deployment](https://docs.convex.dev/production/) docs for how to deploy your app
-* Read the [Best Practices](https://docs.convex.dev/understanding/best-practices/) guide for tips on how to improve you app further
-
-## HTTP API
-
-User-defined http routes are defined in the `convex/router.ts` file. We split these routes into a separate file from `convex/http.ts` to allow us to prevent the LLM from modifying the authentication routes.
+🫧 Bubble Wrap Popper – Java Edition
+Unleash stress, one pop at a time.
+Bubble Wrap Popper is a satisfying, tactile simulation app built in Java that brings the timeless joy of popping bubble wrap to your screen. Whether you're winding down after a long day or just need a moment of zen, this app delivers instant gratification with every click.
+✨ Features:
+• 	Realistic popping sounds for immersive feedback
+• 	Smooth grid-based interface that mimics actual bubble wrap sheets
+• 	Pop tracking to count your stress-relieving taps
+• 	Reset & replay options for endless popping fun
+• 	Lightweight and responsive — built with clean Java architecture
+🛠️ Tech Highlights:
+• 	Developed using Java Swing for intuitive GUI rendering
+• 	Efficient event-driven programming for responsive interaction
+• 	Modular codebase for easy customization and scalability
