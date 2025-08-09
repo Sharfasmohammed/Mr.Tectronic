@@ -1,31 +1,40 @@
-<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
+<img width="1919" height="915" alt="Screenshot 2025-08-09 141714" src="https://github.com/user-attachments/assets/8027a14a-d5bd-4471-b22b-b51f4aed5661" />
 
 
-# [Project Name] 🎯
+# [Bubble popper] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [Mr.Techtronic]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [sharfas mohammed] - [College of engineering poonjar]
 
 ### Project Description
-[2-3 lines about what your project does]
+🫧 Bubble Wrap Popper – Java Edition
+Unleash stress, one pop at a time.
+Bubble Wrap Popper is a satisfying, tactile simulation app built in Java that brings the timeless joy of popping bubble wrap to your screen. Whether you're winding down after a long day or just need a moment of zen, this app delivers instant gratification with every click.
+✨ Features:
+• 	Realistic popping sounds for immersive feedback
+• 	Smooth grid-based interface that mimics actual bubble wrap sheets
+• 	Pop tracking to count your stress-relieving taps
+• 	Reset & replay options for endless popping fun
+• 	Lightweight and responsive — built with clean Java architecture
+🛠️ Tech Highlights:
+• 	Developed using Java Swing for intuitive GUI rendering
+• 	Efficient event-driven programming for responsive interaction
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[project setup because my project didn't push to git hub]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[ i use copilot to solve this problem]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- [java]
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
@@ -47,7 +56,8 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![<img width="1919" height="915" alt="Screenshot 2025-08-09 141714" src="https://github.com/user-attachments/assets/a1ec1b2d-6a09-4ba0-a1e4-1ce5da18e1ea" />
+](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
 ![Screenshot2](Add screenshot 2 here with proper name)
